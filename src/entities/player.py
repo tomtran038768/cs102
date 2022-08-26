@@ -60,15 +60,19 @@ class Player(AnimatedEntity):
 
         for shadow in self.world.get_entities(EntityType.SHADOW):
             if self.collide(shadow):
-                self._take_damage()
+                self._take_damage(shadow.damage)
 
-    def _take_damage(self) -> None:
-        if now() - self.last_hit_t > PlayerConfig.INVULNERABLE_DURATION_MS:
-            self.last_hit_t = now()
+    def _take_damage(self, damage: int) -> None:
+        now_ms = now()
+        if now_ms - self.last_hit_t > PlayerConfig.INVULNERABLE_DURATION_MS:
+            self.stop()
+            self.start_hurt(duration_ms=PlayerConfig.HURT_DURATION_MS)
+
+            self.last_hit_t = now_ms
             self.hp -= 1
 
-        if self.hp <= 0:
-            self.die()
+            if self.hp <= 0:
+                self.die()
 
     def count_inventory(self, entity_types: Iterable[EntityType] = tuple()) -> int:
         """
