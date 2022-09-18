@@ -1,0 +1,6 @@
+(Đố vui) Có 10 con cá trong bể, nếu có hai con cá đã chết
+thì còn bao nhiêu con?
+a. 8 con
+b. 2 con
+c. 10 con
+d. 5 con

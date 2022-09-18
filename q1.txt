@@ -1,0 +1,6 @@
+Cấu trúc dữ liệu nào dùng cho việc lưu trữ các vật phẩm 
+đã nhặt được?
+a. List
+b. Dict
+c. Queue
+d. Stack

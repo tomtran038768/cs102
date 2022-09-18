@@ -1,0 +1,4 @@
+Vì sao ta nên chia nhỏ các file
+a. Để thư mục nhìn đồ sộ hơn
+b. Để chương trình gọn gàng và dễ điều chỉnh hơn.
+c. Vì ta thích thì làm thôi

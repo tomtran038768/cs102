@@ -1,0 +1,5 @@
+Đâu là cách để cho lớp Robot thừa kế từ lớp Enemy?
+a. class Enemy(Robot):
+b. class Robot(Enemy):
+c. Robot = Enemy
+d. Robot.inherit Enemy (inherit = thừa kế)

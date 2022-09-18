@@ -1,0 +1,5 @@
+Thư mục asset bao gồm những file gì?
+a. items, npc, player
+b. worlds, gui, player
+c. worlds, items, npc
+d. game_entities, worlds, npcs

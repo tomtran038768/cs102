@@ -1,0 +1,5 @@
+Làm thế nào để thêm các đoạn hội thoại cho NPC?
+a. Sự dụng câu lệnh print để in ra màn hình
+b. Thêm các đoạn hội thoại vào file .json
+c. Thay đổi ảnh NPC có kèm các dòng chữ
+d. Cả 3 cách trên đều đúng

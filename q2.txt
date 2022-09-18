@@ -1,0 +1,4 @@
+Logic ở mỗi level ta sẽ quản lý các sự kiện gì?
+a. Toàn bộ sự kiện của level đó
+b. Chỉ các sự kiện liên quan đến người chơi
+c. Một số sự kiện tiêu biểu ở level đó

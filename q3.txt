@@ -1,0 +1,5 @@
+Làm thế nào để tạo ra một NPC?
+a. Chuẩn bị các file hình ảnh nhân vật
+b. Tạo một Type mới cho nhân vật NPC
+c. Sửa đổi bản trò chơi để thêm NPC mới
+d. Tất cả bước trên

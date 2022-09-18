@@ -1,0 +1,7 @@
+ Đâu là điều KHÔNG nên làm sau khi hoàn 
+thành chương trình?
+a. Sau khi viết code thì nộp luôn, không cần kiểm tra
+b. Chạy thử để kiểm tra có đúng không
+c. Cải tiến code cho đẹp hơn, dễ hiểu hơn, tối ưu hơn
+d. Đọc lại đề bài xem đã hoàn thành hết các yêu cầu 
+của đề bài chưa
